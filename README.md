@@ -1,5 +1,3 @@
-![Banner](https://encrypted-tbn2.gstatic.com/images?q=tbn\:ANd9GcSSfvXB9vhZvKnW4kD-Y16PWHxg0m80SWn1gj9iawfcsN8mkc4kvGV05lByMJagAwziaz6v0BwUNnHX8aOQVin70lF_j9L1XM8Uwq8G-9T-eQ)
-
 # Naman Dixit
 
 **Cognitive Computational Neuroscience Undergraduate Researcher**
