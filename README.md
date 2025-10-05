@@ -1,4 +1,77 @@
-## 𝙷i ! 
-There , 𝙸'𝚖 𝙽𝚊𝚖𝚊𝚗 𝙳𝚒𝚡𝚒𝚝 . 
-• 𝙲𝚘𝚐𝚗𝚒𝚝𝚒𝚟𝚎 𝙲𝚘𝚖𝚙𝚞𝚝𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝙽𝚎𝚞𝚛𝚘𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚄𝚗𝚍𝚎𝚛 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎 (𝚄𝙶) 𝚁𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚎𝚛 | 𝙰𝚍𝚟𝚊𝚗𝚌𝚒𝚗𝚐 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍𝚒𝚗𝚐 𝚘𝚏 𝚝𝚑𝚎 𝚋𝚛𝚊𝚒𝚗 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚌𝚘𝚖𝚙𝚞𝚝𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝚖𝚘𝚍𝚎𝚕𝚒𝚗𝚐 𝚊𝚗𝚍 𝚍𝚊𝚝𝚊 𝚍𝚛𝚒𝚟𝚎𝚗 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑. 
-• 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚍𝚒𝚗𝚐 𝚌𝚞𝚝𝚝𝚒𝚗𝚐-𝚎𝚍𝚐𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚝 𝚝𝚑𝚎 𝚒𝚗𝚝𝚎𝚛𝚜𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 𝚗𝚎𝚞𝚛𝚘𝚜𝚌𝚒𝚎𝚗𝚌𝚎, 𝙰𝙸 𝚗𝚍 𝚌𝚘𝚐𝚗𝚒𝚝𝚒𝚟𝚎 𝚜𝚌𝚒𝚎𝚗𝚌𝚎. 
+# Naman Dixit 
+
+**Cognitive Computational Neuroscience Undergraduate Researcher**
+Advancing understanding of the brain through computational modeling and data-driven research.
+
+---
+
+## About Me
+
+I am an undergraduate researcher passionate about bridging **neuroscience, artificial intelligence, and cognitive science**. My work is motivated by a single question:
+**How can computational models help us decode, replicate, and advance human cognition?**
+
+* Leading projects at the intersection of **neuroscience, AI, and cognitive computation**.
+* Focused on **computational modeling of brain function** to explore cognition, learning, and decision-making.
+* Building a foundation that connects **theoretical neuroscience** with **applied machine learning**.
+
+---
+
+## Research Vision
+
+* **Neuroscience × AI**: Harness computational frameworks to uncover principles of neural dynamics.
+* **Modeling Cognition**: Develop models that simulate memory, perception, and learning processes.
+* **Data-Driven Insights**: Apply large-scale data analysis to validate and refine brain-inspired models.
+
+My broader aim is to advance the **next generation of AI systems** that are interpretable, adaptive, and grounded in cognitive science.
+
+---
+
+## Current Focus
+
+* Computational frameworks for **neural representation and cognition**
+* Machine learning approaches to **brain-inspired architectures**
+* Exploring synergies between **biological intelligence and artificial systems**
+
+---
+
+Signature Initiatives
+Neuro-AI Modeling Lab (Independent): A personal initiative to prototype open-source frameworks for computational models of cognition.
+Global Research Collaborations: Actively seeking collaboration with labs and researchers at the frontier of neuroscience + AI.
+Scholarly Outreach: Working towards preprints, workshops, and knowledge-sharing platforms to democratize computational neuroscience research.
+
+---
+
+## Technical Interests
+
+* Computational Neuroscience
+* Deep Learning & Representation Learning
+* Reinforcement Learning & Decision Models
+* Cognitive Modeling
+* Data-Driven Neuroscience
+
+---
+
+## Long-Term Goal
+
+To contribute to the creation of **generalizable, interpretable AI systems** inspired by the human brain, while advancing the scientific understanding of cognition.
+
+---
+
+Selected Milestones (in progress)
+Drafting a preprint on computational models of decision-making under uncertainty.
+Developing a prototype framework for brain-inspired reinforcement learning.
+Initiating collaborations with peers across neuroscience and AI to co-develop interdisciplinary toolkits.
+
+---
+
+### Contact
+
+* **LinkedIn**:naman dixit / in 
+* **Email**: namandixit0000@gmail.com
+* **GitHub**: [Insert GitHub Link]
+
+---
+
+> *“The brain is not only an organ of thought — it is the ultimate algorithm. My research journey is dedicated to decoding it.”*
+
+---
