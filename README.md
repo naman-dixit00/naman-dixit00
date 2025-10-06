@@ -35,14 +35,6 @@ My broader aim is to advance the **next generation of AI systems** that are inte
 
 ---
 
-## Signature Initiatives
-
-* **Neuro-AI Modeling Lab (Independent)**: A personal initiative to prototype open-source frameworks for computational models of cognition.
-* **Global Research Collaborations**: Actively seeking collaboration with labs and researchers at the frontier of **neuroscience + AI**.
-* **Scholarly Outreach**: Working towards preprints, workshops, and knowledge-sharing platforms to democratize computational neuroscience research.
-
----
-
 ## Technical Interests
 
 * Computational Neuroscience
@@ -59,14 +51,6 @@ My broader aim is to advance the **next generation of AI systems** that are inte
 To contribute to the creation of **generalizable, interpretable AI systems** inspired by the human brain, while advancing the scientific understanding of cognition.
 
 My research is guided by a philosophy: **AI should not only replicate intelligence but extend it—amplifying human potential while deepening our understanding of the mind itself.**
-
----
-
-## Selected Milestones *(in progress)*
-
-* Drafting a preprint on **computational models of decision-making under uncertainty**.
-* Developing a prototype framework for **brain-inspired reinforcement learning**.
-* Initiating collaborations with peers across neuroscience and AI to co-develop interdisciplinary toolkits.
 
 ---
 
