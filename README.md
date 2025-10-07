@@ -60,8 +60,3 @@ My research is guided by a philosophy: **AI should not only replicate intelligen
 * **Email**: [Insert Email]
 * **GitHub**: [Insert GitHub Link]
 
----
-
-> *“The brain is not only an organ of thought — it is the ultimate algorithm. My research journey is dedicated to decoding it.”*
-
----
