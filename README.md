@@ -52,11 +52,5 @@ To contribute to the creation of **generalizable, interpretable AI systems** ins
 
 My research is guided by a philosophy: **AI should not only replicate intelligence but extend it—amplifying human potential while deepening our understanding of the mind itself.**
 
----
 
-### Contact
-
-* **LinkedIn**: [Insert Link]
-* **Email**: [Insert Email]
-* **GitHub**: [Insert GitHub Link]
 
