@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20Banner.png.png " alt="Logo" />
+  <img src="https://github.com/username/username/blob/main/Github%20Banner.png.png" alt="Logo" width="100%" height="200px" />
 </p>
 
 ## Naman Dixit
