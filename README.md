@@ -1,4 +1,7 @@
-![logo](https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20Banner.png.png)
+<p align="center">
+  <img src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20Banner.png.png " alt="Logo" />
+</p>
+
 ## Naman Dixit
 
 **Cognitive Computational Neuroscience Undergraduate Researcher**
