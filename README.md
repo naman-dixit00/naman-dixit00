@@ -1,9 +1,4 @@
-<h1 align="center">Brain Activity Visualization</h1>
-
-<p align="center">
-  <img src="MIT%20CBMM%20brain.jpg" alt="Brain activity visualization" width="500">
-</p>
-
+![logo]()
 ## Naman Dixit
 
 **Cognitive Computational Neuroscience Undergraduate Researcher**
