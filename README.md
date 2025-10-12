@@ -4,15 +4,6 @@
   <img src="MIT%20CBMM%20brain.jpg" alt="Brain activity visualization" width="500">
 </p>
 
-<p align="center">
-  <sub>
-    Image Source: Mohsenzadeh, Y., Mullin, C., Lahner, B., Cichy, R.M., & Oliva, A. (2019).  
-    <em>Reliability and generalizability of similarity-based fusion of fMRI and MEG data in the ventral and dorsal visual streams.</em>  
-    <a href="https://www.mdpi.com/2411-5150/3/3/38" target="_blank">Vision, 3(3), 1–18.</a>  
-    <br>Image used for educational and illustrative purposes (fair use).
-  </sub>
-</p>
-
 ## Naman Dixit
 
 **Cognitive Computational Neuroscience Undergraduate Researcher**
@@ -67,5 +58,13 @@ To contribute to the creation of **generalizable, interpretable AI systems** ins
 
 My research is guided by a philosophy: **AI should not only replicate intelligence but extend it—amplifying human potential while deepening our understanding of the mind itself.**
 
-
+## Citation 
+<p align="center">
+  <sub>
+    Image Source: Mohsenzadeh, Y., Mullin, C., Lahner, B., Cichy, R.M., & Oliva, A. (2019).  
+    <em>Reliability and generalizability of similarity-based fusion of fMRI and MEG data in the ventral and dorsal visual streams.</em>  
+    <a href="https://www.mdpi.com/2411-5150/3/3/38" target="_blank">Vision, 3(3), 1–18.</a>  
+    <br>Image used for educational and illustrative purposes (fair use).
+  </sub>
+</p>
 
