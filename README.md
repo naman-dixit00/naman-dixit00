@@ -1,12 +1,14 @@
 <p align="center">
-  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Faeon.co%2Fessays%2Fyour-brain-does-not-process-information-and-it-is-not-a-computer&psig=AOvVaw2C4RUPyClQTSs8Fh0YF0nP&ust=1760367729520000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiJioD3npADFQAAAAAdAAAAABAL">
+  <a href="https://images.aeonmedia.co/images/3d276efb-4841-4be7-b63f-9deffd9526c1/ESSAY-GS3522985.jpg?width=3840&quality=75&format=auto">
     <img 
-      src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faeon.co%2Fessays%2Fyour-brain-does-not-process-information-and-it-is-not-a-computer&psig=AOvVaw2C4RUPyClQTSs8Fh0YF0nP&ust=1760367729520000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiJioD3npADFQAAAAAdAAAAABAL" 
+      src="https://images.aeonmedia.co/images/3d276efb-4841-4be7-b63f-9deffd9526c1/ESSAY-GS3522985.jpg?width=3840&quality=75&format=auto" 
       alt="Logo" 
       style="width:100%; height:200px; object-fit:cover; border-radius:10px;"
     >
   </a>
-  <h3 align="center">“Your Brain Does Not Process Information – It Is Not a Computer.” Aeon Essays, Aeon.co. Image used under fair use / with attribution. Retrieved on October 12, 2025, at 8:36 PM.</h3>  
+  <h1 align="center">“Image Source: Your Brain Does Not Process Information – It Is Not a Computer, Aeon Essays. Retrieved from https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer
+ on October 12, 2025, at 8:36 PM.
+Image used for educational and illustrative purposes (fair use).</h1>  
 </p>
 # Naman Dixit
 
