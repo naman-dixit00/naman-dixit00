@@ -1,23 +1,5 @@
-<p align="center">
-  <a href="https://images.aeonmedia.co/images/3d276efb-4841-4be7-b63f-9deffd9526c1/ESSAY-GS3522985.jpg?width=3840&quality=75&format=auto">
-    <img 
-      src="https://images.aeonmedia.co/images/3d276efb-4841-4be7-b63f-9deffd9526c1/ESSAY-GS3522985.jpg?width=3840&quality=75&format=auto" 
-      alt="Logo" 
-      style="width:100%; height:200px; object-fit:cover; border-radius:10px;"
-    >
-  </a>
-<h1 align="center">
-  <span style="font-size:8px;">
-    <em>Your Brain Does Not Process Information – It Is Not a Computer</em>, Aeon Essays.  
-    Retrieved from <a href="https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer" target="_blank">
-    https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer
-    </a><br>
-    on October 12, 2025, at 8:36 PM.<br>
-  </span>
-</h1>
 
-
-# Naman Dixit
+## Naman Dixit
 
 **Cognitive Computational Neuroscience Undergraduate Researcher**
 Advancing understanding of the brain through computational modeling and data-driven research.
