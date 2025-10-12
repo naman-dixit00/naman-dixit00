@@ -7,15 +7,15 @@
     >
   </a>
 <h1 align="center">
-  <sub>
-    Image Source: <em>Your Brain Does Not Process Information – It Is Not a Computer</em>, Aeon Essays.  
+  <span style="font-size:8px;">
+    <em>Your Brain Does Not Process Information – It Is Not a Computer</em>, Aeon Essays.  
     Retrieved from <a href="https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer" target="_blank">
     https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer
     </a><br>
     on October 12, 2025, at 8:36 PM.<br>
-    Image used for educational and illustrative purposes (fair use).
-  </sub>
+  </span>
 </h1>
+
 
 # Naman Dixit
 
