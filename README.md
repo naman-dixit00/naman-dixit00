@@ -6,10 +6,17 @@
       style="width:100%; height:200px; object-fit:cover; border-radius:10px;"
     >
   </a>
-  <h1 align="center">“Image Source: Your Brain Does Not Process Information – It Is Not a Computer, Aeon Essays. Retrieved from https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer
- on October 12, 2025, at 8:36 PM.
-Image used for educational and illustrative purposes (fair use).</h1>  
-</p>
+<h1 align="center">
+  <sub>
+    Image Source: <em>Your Brain Does Not Process Information – It Is Not a Computer</em>, Aeon Essays.  
+    Retrieved from <a href="https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer" target="_blank">
+    https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer
+    </a><br>
+    on October 12, 2025, at 8:36 PM.<br>
+    Image used for educational and illustrative purposes (fair use).
+  </sub>
+</h1>
+
 # Naman Dixit
 
 **Cognitive Computational Neuroscience Undergraduate Researcher**
