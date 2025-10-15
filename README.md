@@ -11,7 +11,7 @@ Advancing understanding of the brain through computational modeling and data-dri
 
 ## About Me
 
-I am an undergraduate researcher passionate about bridging **neuroscience, artificial intelligence, and cognitive science**. My work is motivated by a central question:
+I am an undergraduate researcher passionate about bridging ** computational neuroscience, artificial intelligence, and cognitive science**. My work is motivated by a central question:
 **How can computational models help us decode, replicate, and ultimately expand human cognition?**
 
 * Leading projects at the intersection of **neuroscience, AI, and cognitive computation**.
