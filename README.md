@@ -4,8 +4,10 @@
 
 ## Naman Dixit
 
-**Cognitive Computational Neuroscience Undergraduate Researcher**
-Advancing understanding of the brain through computational modeling and data-driven research.
+**Computational Applications Undergraduate Researcher**
+Advancing understanding of the computational neuroscience, Computational material science, Computational physics & quantum mechanics, computational optoelectronics, computational fluids dynamics , Computational bioinformatics & computational drug discovery and many more etc .through mathematical computational modeling and simulatory AI based researchs like example - Domain specific applications based mathematically modeled Computational AI discory &Simulatory research & experiments and also able to powered the scientific breakthroughs by engineered Simulatory Computationally Complex visualized & modeled Applications based domain specific Ai powered Research & engineering. 
+there are lots of applications of computation in areas like - semiconductor ( CUDA, HPC, optoelectronics & neuromorphic and cutting edge technologies like NBIC powered chiplets & modeled software inspired by any domains specific applications 
+Architecture & working processes etc. 
 
 ---
 
