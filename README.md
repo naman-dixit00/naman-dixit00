@@ -13,7 +13,7 @@ Architecture & working processes etc.
 
 ## About Me
 
-I am an undergraduate research powered engineer passionate about bridging ** computational neuroscience, artificial intelligence, and cognitive science**. My work is motivated by a central question:
+I am an undergraduate research powered engineer passionate about bridging ** computation and applications domains like - computational bioinformatics, computational neuroscience , computational quantum mechanics, computational nanoelectronics computational optical & parallel computing , quantum and neuromorphic computing etc . 
 **How can computational models help us decode, replicate, and ultimately expand human cognition?**
 
 * Leading projects at the intersection of **neuroscience, AI, and cognitive computation**.
