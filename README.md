@@ -64,4 +64,5 @@ To contribute to the creation of **generalizable, interpretable AI systems** ins
 
 My research is guided by a philosophy: **AI should not only replicate intelligence but extend it—amplifying human potential while deepening our understanding of the mind itself.**
 
-## Computer Applications is the way to converge computation with neuro., nano. quantum, bio, physics life energy and more. through simulation using computation and mathematical modeling . that's the motive of this Degree. because it's about science not engineering or not about service. it's about science of applied computing & applications of computer like computational neuroscience , computational physics etc. that is Bachelor's of Computer Applications ( BCA ) . 
+** Computer Applications is the way to converge computation with neuro., nano. quantum, bio, physics life energy and more. through simulation using computation and mathematical modeling . that's the motive of this Degree. because it's about science not engineering or not about service. it's about science of applied computing & applications of computer like computational neuroscience , computational physics etc. that is Bachelor's of Computer Applications ( BCA ) . 
+**
