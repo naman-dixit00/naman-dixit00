@@ -31,7 +31,7 @@ Applied Engineering & Computer Sciwnce roles :  like data engineering ,software 
 ## Research Vision
 
 * **Neuroscience × AI**: Harness computational frameworks to uncover principles of neural dynamics.
-* **Modeling Cognition**: Develop models that simulate memory, perception, and learning processes.
+* **Modeling & Simulation of Cognition**: Develop models that simulate memory, perception, and learning processes.
 * **Data-Driven Insights**: Apply large-scale data analysis to validate and refine brain-inspired models.
 
 My broader aim is to advance the **next generation of AI systems** that are interpretable, adaptive, and grounded in cognitive science.
@@ -41,7 +41,7 @@ My broader aim is to advance the **next generation of AI systems** that are inte
 ## Current Focus
 
 * Computational frameworks for **neural representation and cognition**
-* Machine learning approaches to **brain-inspired architectures**
+* Deep learning approaches to **brain-inspired architectures**
 * Exploring synergies between **biological intelligence and artificial systems**
 * Initiating **cross-disciplinary research bridges** (linking neuroscience, philosophy of mind, and advanced AI).
 
