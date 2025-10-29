@@ -28,6 +28,17 @@ Research & Scientific : Domain Specific Scientist ( Computational NeuroScientist
 Applied Engineering & Computer Sciwnce roles :  like data engineering ,software engineering , bussiness analyst , quant engineer etc .
 
 ---
+
+## Technical Interests
+
+* Computational Neuroscience
+* Deep Learning & Representation Learning
+* Reinforcement Learning & Decision Models
+* Cognitive Modeling
+* Data-Driven Neuroscience
+* Neuromorphic Computing and Brain-Inspired Architectures
+
+---
 ## Research Vision
 
 * **Neuroscience × AI**: Harness computational frameworks to uncover principles of neural dynamics.
@@ -44,17 +55,6 @@ My broader aim is to advance the **next generation of AI systems** that are inte
 * Deep learning approaches to **brain-inspired architectures**
 * Exploring synergies between **biological intelligence and artificial systems**
 * Initiating **cross-disciplinary research bridges** (linking neuroscience, philosophy of mind, and advanced AI).
-
----
-
-## Technical Interests
-
-* Computational Neuroscience
-* Deep Learning & Representation Learning
-* Reinforcement Learning & Decision Models
-* Cognitive Modeling
-* Data-Driven Neuroscience
-* Neuromorphic Computing and Brain-Inspired Architectures
 
 ---
 
