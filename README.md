@@ -32,16 +32,15 @@ Applied Engineering & Computer Sciwnce roles :  like data engineering ,software 
 ## Technical Interests
 
 * Computational Neuroscience & Quantum Mechanics 
-* Deep Learning & Representation Learning
+* Deep Learning & Representation Learning 
 * Reinforcement Learning & Decision Models
-* Cognitive Modeling
+* Cognitive Modeling 
 * Data-Driven Neuroscience
-* Neuromorphic Computing and Brain-Inspired Architectures
-
+* Neuromorphic , Quantum , Optical Computing and Inspired Architectures. 
 ---
 ## Research Vision
 
-* **Neuroscience × AI**: Harness computational frameworks to uncover principles of neural dynamics.
+* **Neuroscience x Quantum mechanics x Optical × AI**: Harness computational frameworks to uncover principles of neural dynamics.
 * **Modeling & Simulation of Cognition**: Develop models that simulate memory, perception, and learning processes.
 * **Data-Driven Insights**: Apply large-scale data analysis to validate and refine brain-inspired models.
 
