@@ -31,7 +31,7 @@ Applied Engineering & Computer Sciwnce roles :  like data engineering ,software 
 
 ## Technical Interests
 
-* Computational Neuroscience
+* Computational Neuroscience & Quantum Mechanics 
 * Deep Learning & Representation Learning
 * Reinforcement Learning & Decision Models
 * Cognitive Modeling
