@@ -71,4 +71,4 @@ My research is guided by a philosophy: **AI should not only replicate intelligen
 ## Feel free to Reach for Study Or Research, Internships and realted to academics or about an curriculum only. 
 Email Id - namandixit0000@ gmail.com
 
-
+# Currently Working On Open Source Contribution and experiments. 
