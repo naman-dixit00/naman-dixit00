@@ -21,8 +21,7 @@ I am an undergraduate research powered engineer passionate about bridging ** com
 Reference : (ACM CCS = ACM Computing Classification System) 
 Bachelors Of Computer Applications ( Honours With Research )
 Duration : 4 years 
-Area Of Study & Research : Core & Advanced Computer Science Software & Data & Models building processing & creations and knowledge of intermediate hardware Science of it engineering . And Applications of Computer Sciences like - Computational Biology , Computational Neruoscience , Computational Lithography , Computational Linguistics , Computational Psycology and Cognitive Science 
-, Computational Material Science ,Computational Medicine , Computational Genomics , Computational Drug Design , Computational Robotics , Computational Quantum Mechanics etc .
+Area Of Study & Research : Core & Advanced Computer Science Software & Data & Models building processing & creations and knowledge of intermediate hardware Science of it engineering . And Applications of Computer Sciences like - Computational Biology , Computational Neruoscience , Computational Lithography , Computational Linguistics , Computational Cognitive Science ,Computational Quantum Mechanics etc .
 
 Job Roles  
 Research & Scientific : Domain Specific Scientist ( Computational NeuroScientist etc .) 
