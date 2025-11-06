@@ -68,6 +68,14 @@ My research is guided by a philosophy: **AI should not only replicate intelligen
 * Currently I was focused on to complete my studies of applied computation part of Computer Applications that contains about the mixture of both science & engineering of computer ( Software and hardware mixed but both)
 * and after completing this I'm moving towards the Core and main study of Computer applications ( the modeling and simulation and how to modeles the Applications of computer specific domains like neuroscience,  lithography, durg discovery in computation via mathematical modeling and which software is actually used to simulate this and hardware optimization like CUDA HPC etc. 
 
+## Currently Working on 
+• Open Source Contribution 
+• Creating Portfolio Website 
+• Working on Research Report 
+• Writing Research Articles 
+• Working on Full Stack Projects 
+• Started on Kaggle & Hugging Face. 
+
 ## Feel free to Reach for Study Or Research, Internships and realted to academics or about an curriculum only. 
 Email Id - namandixit0000@ gmail.com
 
