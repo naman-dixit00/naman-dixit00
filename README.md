@@ -61,6 +61,8 @@ It is not merely a software engineering degree — rather, it is a **computation
 * Computational Physicist
 * Applied Domain Research Engineer
 
+---
+
 ### **Applied Engineering Roles**
 
 * Software Engineer / Data Engineer
