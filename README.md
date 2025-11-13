@@ -65,9 +65,9 @@ It is not merely a software engineering degree — rather, it is a **computation
 
 ### **Applied Engineering Roles**
 
-* Software Engineer / Data Engineer
-* Quantitative Analyst / Quant Engineer
-* Research Software Developer
+* ML-DL Engineer / Data Engineer
+* AI-Simulation Engineer 
+* Domain Specific -Software Developer
 * Scientific Computing Engineer
 
 ---
@@ -80,7 +80,7 @@ My ongoing studies focus on:
 
 * **Modeling and Simulation** — understanding how computational models represent physical, biological, or chemical phenomena.
 * **Domain-Specific Computation** — applying algorithms to real-world systems such as neuroscience, drug discovery, and nanofabrication.
-* **Hardware Optimization** — leveraging **CUDA**, **GPU acceleration**, and **high-performance computing (HPC)** to scale computational simulations.
+* **Hardware Optimization** — leveraging **CUDA**, **GPU acceleration**, and **high-performance computing (HPC)**,**JAX and TUNIX**  to scale computational simulations.
 
 Following this, I intend to advance toward the **core computational modeling disciplines**, contributing to high-impact research at the intersection of **applied computation and scientific discovery**.
 
