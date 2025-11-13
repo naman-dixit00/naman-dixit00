@@ -7,7 +7,7 @@
 
 ## **About Me**
 
-I am an **undergraduate research-oriented applied & scientific computing technologist , computational applications researcher ** driven by the pursuit of integrating **advanced computation** with **scientific discovery**.
+I am an **undergraduate research-oriented applied & scientific computing technologist , computational applications researcher** driven by the pursuit of integrating **advanced computation** with **scientific discovery**.
 My intellectual focus lies at the intersection of **computer applications, applied mathematics, and scientific modeling**, where computation becomes a tool for understanding, simulating, and engineering complex natural and artificial systems.
 
 I am deeply engaged in exploring and developing methodologies across **applied and scientific computing**, specifically in:
