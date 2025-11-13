@@ -1,4 +1,5 @@
 # **Naman Dixit**
+
 ---
 ### *Undergraduate Researcher – Computational Applications & Interdisciplinary Scientific Computing*
 
@@ -29,6 +30,8 @@ I aspire to contribute to the development of **next-generation computational par
 The program blends **core and advanced computer science** with **applied computational modeling**, uniting software and hardware sciences under a single interdisciplinary framework.
 It is not merely a software engineering degree — rather, it is a **computational applications** discipline that emphasizes **scientific computation, system modeling, and domain-specific computational methods**.
 
+---
+
 ### **Core Areas of Study & Research**
 
 * Theoretical & Applied Computer Science
@@ -36,6 +39,8 @@ It is not merely a software engineering degree — rather, it is a **computation
 * Scientific Software and Systems Engineering
 * Data, Knowledge, and Model Construction
 * Intermediate Hardware Science and Engineering
+
+---
 
 ### **Domain Applications**
 
@@ -88,9 +93,12 @@ Following this, I intend to advance toward the **core computational modeling dis
 * Scientific Software Design and Algorithmic Engineering
   
 ---
+
 ## Repository Status: Under Construction & Major Update
 
 *  This GitHub profile and its repositories are currently undergoing a comprehensive and strategic update.
+
+---
 
 ## Current Status:
 
@@ -98,12 +106,16 @@ Following this, I intend to advance toward the **core computational modeling dis
 *  Content Refresh: Existing content is being reviewed, refined, and updated to reflect the latest standards and my recent learning achievements.
 *  Visibility: The content you see now may be incomplete, unpolished, or temporarily restructured. This is a necessary phase in ensuring the quality and integrity of the final presentation.
 
+---
+
 # Our Commitment:
 
 * I was committed to delivering a fully updated and highly organized portfolio that clearly showcases my professional capabilities and project execution expertise.
 * Target Completion: I am working diligently to finalize this process and aim to have the complete, high-quality data set available for review as soon as possible.
 
 - Thank you for your patience and understanding during this critical update phase. Please check back shortly for the final, comprehensive portfolio.
+
+---
 
 ## 📬 **Contact & Collaboration**
 
