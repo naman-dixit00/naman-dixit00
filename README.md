@@ -89,21 +89,21 @@ Following this, I intend to advance toward the **core computational modeling dis
   
 ---
 ## Repository Status: Under Construction & Major Update
-This GitHub profile and its repositories are currently undergoing a comprehensive and strategic update.
 
-Current Status:
-Data Migration & Integration: All past projects, certifications, and technical documentation are actively being loaded and meticulously integrated.
+*  This GitHub profile and its repositories are currently undergoing a comprehensive and strategic update.
 
-Content Refresh: Existing content is being reviewed, refined, and updated to reflect the latest standards and my recent learning achievements.
+## Current Status:
 
-Visibility: The content you see now may be incomplete, unpolished, or temporarily restructured. This is a necessary phase in ensuring the quality and integrity of the final presentation.
+*  Data Migration & Integration: All past projects, certifications, and technical documentation are actively being loaded and meticulously integrated.
+*  Content Refresh: Existing content is being reviewed, refined, and updated to reflect the latest standards and my recent learning achievements.
+*  Visibility: The content you see now may be incomplete, unpolished, or temporarily restructured. This is a necessary phase in ensuring the quality and integrity of the final presentation.
 
-Our Commitment
-We are committed to delivering a fully updated and highly organized portfolio that clearly showcases my professional capabilities and project execution expertise.
+# Our Commitment:
 
-Target Completion: I am working diligently to finalize this process and aim to have the complete, high-quality data set available for review as soon as possible.
+* I was committed to delivering a fully updated and highly organized portfolio that clearly showcases my professional capabilities and project execution expertise.
+* Target Completion: I am working diligently to finalize this process and aim to have the complete, high-quality data set available for review as soon as possible.
 
-Thank you for your patience and understanding during this critical update phase. Please check back shortly for the final, comprehensive portfolio.
+- Thank you for your patience and understanding during this critical update phase. Please check back shortly for the final, comprehensive portfolio.
 
 ## 📬 **Contact & Collaboration**
 
