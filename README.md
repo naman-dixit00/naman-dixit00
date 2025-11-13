@@ -7,7 +7,7 @@
 
 ## **About Me**
 
-I am an **undergraduate research-oriented computational engineer** driven by the pursuit of integrating **advanced computation** with **scientific discovery**.
+I am an **undergraduate research-oriented applied & scientific computing technologist , computational applications researcher ** driven by the pursuit of integrating **advanced computation** with **scientific discovery**.
 My intellectual focus lies at the intersection of **computer applications, applied mathematics, and scientific modeling**, where computation becomes a tool for understanding, simulating, and engineering complex natural and artificial systems.
 
 I am deeply engaged in exploring and developing methodologies across **applied and scientific computing**, specifically in:
@@ -23,9 +23,9 @@ I aspire to contribute to the development of **next-generation computational par
 
 ## **Academic Background**
 
-**Bachelor of Computer Applications (Honours with Research)**
-**Duration:** 4 Years
-**Classification Reference:** *ACM Computing Classification System (ACM CCS)*
+**Bachelor of Computer Applications (Honours with Research)**<br>
+**Duration:** 4 Years<br>
+**Classification Reference:** *ACM Computing Classification System (ACM CCS)*<br>
 
 The program blends **core and advanced computer science** with **applied computational modeling**, uniting software and hardware sciences under a single interdisciplinary framework.
 It is not merely a software engineering degree — rather, it is a **computational applications** discipline that emphasizes **scientific computation, system modeling, and domain-specific computational methods**.
