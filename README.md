@@ -110,15 +110,6 @@ Following this, I intend to advance toward the **core computational modeling dis
 
 ---
 
-# Our Commitment:
-
-* I was committed to delivering a fully updated and highly organized portfolio that clearly showcases my professional capabilities and project execution expertise.
-* Target Completion: I am working diligently to finalize this process and aim to have the complete, high-quality data set available for review as soon as possible.
-
-- Thank you for your patience and understanding during this critical update phase. Please check back shortly for the final, comprehensive portfolio.
-
----
-
 ## 📬 **Contact & Collaboration**
 
 * **Email:** [namandixit0000@gmail.com](mailto:namandixit0000@gmail.com)
