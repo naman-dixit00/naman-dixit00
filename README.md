@@ -121,5 +121,5 @@ Following this, I intend to advance toward the **core computational modeling dis
   * Scholarly discussions in computational and applied sciences
 
 <p align="center">
-  <img src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20badges.jpeg/>
+  <img src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20badges.jpeg" alt="Meri Image" width="1000" height="500"/>
 </p>
