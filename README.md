@@ -120,3 +120,30 @@ Following this, I intend to advance toward the **core computational modeling dis
   * Scientific internships and lab work
   * Scholarly discussions in computational and applied sciences
 
+
+
+
+
+<div style="
+  width: 420px;
+  overflow-x: auto;
+  white-space: nowrap;
+  padding: 8px;
+  border-radius: 12px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  scrollbar-width: thin;
+  scrollbar-color: #cfcfcf transparent;
+">
+  <img 
+    src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20Banner.png.png" 
+    style="
+      height: 220px;
+      border-radius: 10px;
+      transition: transform 0.3s ease;
+    "
+    onmouseover="this.style.transform='scale(1.04)'"
+    onmouseout="this.style.transform='scale(1)'"
+  >
+</div>
