@@ -137,7 +137,7 @@ Following this, I intend to advance toward the **core computational modeling dis
   scrollbar-color: #cfcfcf transparent;
 ">
   <img 
-    src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20Banner.png.png" 
+    src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20badges.jpeg" 
     style="
       height: 220px;
       border-radius: 10px;
