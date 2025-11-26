@@ -96,13 +96,13 @@ Following this, I intend to advance toward the **core computational modeling dis
   
 ---
 
-## Repository Status: Under Construction & Major Update
+## **Repository Status: Under Construction & Major Update**
 
 *  This GitHub profile and its repositories are currently undergoing a comprehensive and strategic update.
 
 ---
 
-## Current Status:
+## **Current Status**
 
 *  Data Migration & Integration: All past projects, certifications, and technical documentation are actively being loaded and meticulously integrated.
 *  Content Refresh: Existing content is being reviewed, refined, and updated to reflect the latest standards and my recent learning achievements.
@@ -120,6 +120,7 @@ Following this, I intend to advance toward the **core computational modeling dis
   * Scientific internships and lab work
   * Scholarly discussions in computational and applied sciences
 
+## **Take a look at my leetcode badges** 
 <p align="center">
   <img src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20badges.jpeg" alt="Meri Image" width="800" height="700"/>
 </p>
