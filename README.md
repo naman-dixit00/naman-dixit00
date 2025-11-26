@@ -120,28 +120,6 @@ Following this, I intend to advance toward the **core computational modeling dis
   * Scientific internships and lab work
   * Scholarly discussions in computational and applied sciences
 
-
-<div style="
-  width: 420px;
-  overflow-x: auto;
-  white-space: nowrap;
-  padding: 12px;
-  border-radius: 12px;
-  background: #ffffff;
-  border: 1px solid #e6e7eb;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-">
-  <img
-    src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20badges.jpeg"
-    alt="Scrollable image"
-    style="
-      display: center;
-      height: 500px;
-      min-width: 900px; /* <- makes image wider than container so horizontal scroll appears */
-      object-fit: cover;
-      border-radius: 10px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.07);
-      vertical-align: middle;
-    "
-  />
-</div>
+<p align="center">
+  <img src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20badges.jpeg/>
+</p>
