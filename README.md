@@ -135,8 +135,8 @@ Following this, I intend to advance toward the **core computational modeling dis
     src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20badges.jpeg"
     alt="Scrollable image"
     style="
-      display: inline-block;
-      height: 220px;
+      display: center;
+      height: 500px;
       min-width: 900px; /* <- makes image wider than container so horizontal scroll appears */
       object-fit: cover;
       border-radius: 10px;
