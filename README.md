@@ -121,29 +121,27 @@ Following this, I intend to advance toward the **core computational modeling dis
   * Scholarly discussions in computational and applied sciences
 
 
-
-
-
 <div style="
   width: 420px;
   overflow-x: auto;
   white-space: nowrap;
-  padding: 8px;
+  padding: 12px;
   border-radius: 12px;
   background: #ffffff;
-  border: 1px solid #e5e7eb;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
-  scrollbar-width: thin;
-  scrollbar-color: #cfcfcf transparent;
+  border: 1px solid #e6e7eb;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
 ">
-  <img 
-    src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20badges.jpeg" 
+  <img
+    src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Github%20badges.jpeg"
+    alt="Scrollable image"
     style="
+      display: inline-block;
       height: 220px;
+      min-width: 900px; /* <- makes image wider than container so horizontal scroll appears */
+      object-fit: cover;
       border-radius: 10px;
-      transition: transform 0.3s ease;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.07);
+      vertical-align: middle;
     "
-    onmouseover="this.style.transform='scale(1.04)'"
-    onmouseout="this.style.transform='scale(1)'"
-  >
+  />
 </div>
