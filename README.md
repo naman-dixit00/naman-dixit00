@@ -1,4 +1,12 @@
+<div style="background-color:#001f3f; padding:20px; border-radius:10px;">
+
+<h1 style="color:white;">Navy Blue Background Example</h1>
+
+<p style="color:white;">
 # **Naman Dixit**
+</p>
+
+</div>
 ---
 * I am Scientific Computational Application Researcher .
 * Recently worked with Indian Institute Of Science (IISc) .
