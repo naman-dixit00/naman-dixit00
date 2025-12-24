@@ -4,9 +4,9 @@
 * I recently participated @ MIT Winter Informatics Tournament .
   
 * Working domains include :
-  > Computational Neuro-Engineering, Quantum Mechanics, Optical Information Processing, AI/ML, High-Performance Computing, Mathematical Modeling & Computational Simulation, and   Neuromorphic– Biomedical Engineering.  
-  > Relavent work experience -
+  > Computational Neuro-Engineering, Quantum Mechanics, Optical Information Processing, AI/ML, High-Performance Computing, Mathematical Modeling & Computational Simulation, and   Neuromorphic– Biomedical Engineering.
   
+  * Relavent work experience -
     * Cognitive Neuroscience Voulnteer @ IISc Banglore
     * Participant @ Harvard Aspire Leadership Program .
     * Participant @ Tsinghua University Global Summer School 2020 .
