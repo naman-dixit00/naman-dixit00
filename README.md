@@ -13,7 +13,7 @@
   > Computational Neuro-Engineering, Quantum Mechanics, Optical Information Processing, AI/ML, High-Performance Computing, Mathematical Modeling & Computational Simulation, and   Neuromorphic– Biomedical Engineering.
 ---
 ✉️  現在 Internship opportunities に open です。!   
-Email : namandixit0000@gmail.com
+     * Email : namandixit0000@gmail.com
 ---
 
       
