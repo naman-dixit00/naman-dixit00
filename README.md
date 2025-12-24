@@ -1,7 +1,6 @@
-<a>
-  <img src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Banner.jpeg" style="width: 100%; height: 50vh; object-fit: cover;" />
+<a href="#">
+  <img src="https://github.com/naman-dixit00/naman-dixit00/blob/main/Banner.jpeg?raw=true" alt="Banner" style="width: 100%; max-width: 100%; height: auto; display: block;" />
 </a>
-
 ---
 
 # **こんにちは、私は … です。 Naman !**
