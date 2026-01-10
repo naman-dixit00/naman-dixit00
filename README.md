@@ -5,8 +5,6 @@
   
 * Working domains include :
   > Computational Neuro-Engineering, Quantum Mechanics, Optical Information Processing, AI/ML, High-Performance Computing, Mathematical Modeling & Computational Simulation, and   Neuromorphic– Biomedical Engineering.  
-  🎵 [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W?si=f82167b3aab24766)  
-  🎬 Your Name , Wheathering With You , Silent Voice
   
 ---
 # Contact Details :
