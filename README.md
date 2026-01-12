@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=120&section=header&text=%20&fontSize=90" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=800&size=38&duration=3000&pause=1500&color=001F3F&center=true&vCenter=true&width=800&lines=NAMAN+DIXIT;Principal+Systems+Architect.;Computational+Neuromorphic+Dynamics.;Post-Classical+Algorithmic+Modeling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=800&size=38&duration=3000&pause=1500&color=001F3F&center=true&vCenter=true&width=800&lines=NAMAN+DIXIT;Applied Computational Researcher.;Computational+Neuromorphic+Dynamics.;Post-Classical+Algorithmic+Modeling" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MIT-Computational_Informatics-A31F34?style=for-the-badge&logo=massachusettsinstituteoftechnology&logoColor=white"/>
   <img src="https://img.shields.io/badge/Harvard-Aspire_Global_Fellow-A51C30?style=for-the-badge&logo=harvarduniversity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Postdoctoral_Inquiry-FFD700?style=for-the-badge&logo=google-scholar&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Status-UnderGraduate Student -FFD700?style=for-the-badge&logo=google-scholar&logoColor=black"/>
 </p>
 
 ---
