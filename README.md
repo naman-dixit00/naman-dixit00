@@ -1,8 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=001F3F&height=180&section=header&text=%20&fontSize=90" width="100%"/>
-  <div style="margin-top: -150px;">
+  <div>
     <a href="https://github.com/naman-dixit00">
       <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=800&size=42&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=こんにちは%2C+NAMAN+です。;Computational+Application+Researcher.;Computational+Modeling+%26+Simulations.;Top+0.6%25+LeetCode+Global+Rank" alt="Typing SVG" />
     </a>
