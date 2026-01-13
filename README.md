@@ -95,7 +95,7 @@
 ### 🧧 联络 | CONTACT PROTOCOL
 ✉️ **Actively seeking research internships and opportunities.**
 
-> **Direct Node:** [abcd@gmail.com](mailto:abcd@gmail.com)  
+> **Direct Node:** [namandixit0000@gmail.com](mailto: namandixit@gmail.com)  
 > **Scientific Channel:** [LinkedIn / Naman-Dixit](https://linkedin.com/in/YOUR_LINKEDIN)
 
 <br/>
