@@ -30,44 +30,7 @@
 </table>
 
 ---
-
-### ⚡ 算法卓越 | ALGORITHMIC SUPREMACY
-
-<div align="center">
-  <table style="background: #ffffff; border-radius: 12px; border: 2px solid #001F3F; box-shadow: 10px 10px 0px #001F3F;">
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <img src="https://leetcard.jacoblin.cool/naman-dixit00?theme=light&font=Fira%20Code&ext=heatmap" width="400px" />
-      </td>
-      <td align="left" style="padding: 25px; border-left: 2px solid #001F3F;">
-        <h2 style="color: #001F3F; margin-top: 0; border: none;">EXECUTIVE SUMMARY</h2>
-        <p style="color: #111; font-family: 'Fira Code'; font-size: 14px;">
-          <b>🏆 Global Rank:</b> Top 0.6% <br/>
-          <b>✅ Solved:</b> 556 Problems <br/>
-          <b>📈 Acceptance:</b> 97.8% <br/>
-          <b>🔥 Consistency:</b> 234 Active Days <br/>
-          <hr/>
-          <b>Performance Metrics:</b> <br/>
-          &nbsp;⚡ Beats 96.14% (Easy) <br/>
-          &nbsp;⚡ Beats 96.97% (Medium) <br/>
-          &nbsp;⚡ Beats 96.49% (Hard)
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🤖 NAMAN-AI v2.0 | RESEARCH CONCIERGE
-*Interactive Profile Terminal — Select a protocol to initialize.*
-
-<div align="center">
-<img src="https://img.shields.io/badge/AI_STATUS-OPERATIONAL-00FF00?style=flat-square" /> 
-<img src="https://img.shields.io/badge/VOICE_CORE-ACTIVE-0052CC?style=flat-square" />
-
-<br/><br/>
-
+  
 | [ 📂 FETCH REPOSITORIES ](https://github.com/naman-dixit00?tab=repositories) | [ 🧬 VIEW RESEARCH STACK ](#-technical-arsenal) |
 | :---: | :---: |
 | **"Naman, show me your projects."** | **"What is your compute capability?"** |
