@@ -21,50 +21,16 @@
 ### 🏮 研究領域 | RESEARCH CANON
 > *“Bridging Biological Intelligence and High-Performance Computation through mathematical formalism.”*
 
-<table align="center" width="100%" style="background-color: #ffffff; border: 2px solid #001F3F; border-radius: 15px;">
-<tr>
-<td style="padding: 25px; color: #001F3F; font-family: 'EB Garamond'; font-size: 16px;">
-<strong>Core Focus:</strong> Computational Neuro-Engineering • Quantum Mechanics • Optical Information Processing • AI/ML • High-Performance Computing • Mathematical Modeling & Simulation • Neuromorphic–Biomedical Engineering.
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td bgcolor="#FFFFFF" style="padding: 25px; border: 1px solid #E1E4E8; border-radius: 10px;">
+      <p align="center">
+        <font color="#001F3F" face="EB Garamond" size="4">
+          <strong>Core Focus:</strong> Computational Neuro-Engineering • Quantum Mechanics • Optical Information Processing • AI/ML • High-Performance Computing • Mathematical Modeling & Simulation • Neuromorphic–Biomedical Engineering.
+        </font>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
-  
-| [ 📂 FETCH REPOSITORIES ](https://github.com/naman-dixit00?tab=repositories) | [ 🧬 VIEW RESEARCH STACK ](#-technical-arsenal) |
-| :---: | :---: |
-| **"Naman, show me your projects."** | **"What is your compute capability?"** |
-| [ 📩 INITIALIZE CONTACT ](mailto:abcd@gmail.com) | [ 🤝 LINKEDIN HANDSHAKE ](https://linkedin.com/in/YOUR_LINKEDIN) |
-| **"I want to collaborate."** | **"Let's connect professionally."** |
-
-</div>
-
----
-
-### 🛠️ TECHNICAL ARSENAL
-
-<div align="center">
-
-| LAYER | TECHNOLOGIES | IMPLEMENTATION |
-| :--- | :--- | :--- |
-| **Core Systems** | `C++23` `Python` `Julia` `CUDA` `MATLAB` | `High-Performance Modeling` |
-| **Neural Logic** | `PyTorch` `JAX` `TensorFlow` `SNN` `PINNs` | `Interdisciplinary Simulation` |
-| **Lab Infra** | `Linux Kernel` `Docker` `Git` `ROS` `HPC` | `Scalable Architecture` |
-
-</div>
-
----
-
-### 🧧 联络 | CONTACT PROTOCOL
-✉️ **Actively seeking research internships and opportunities.**
-
-> **Direct Node:** [namandixit0000@gmail.com](mailto: namandixit@gmail.com)  
-> **Scientific Channel:** [LinkedIn / Naman-Dixit](https://linkedin.com/in/YOUR_LINKEDIN)
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001F3F&height=100&section=footer" width="100%"/>
-</div>
-
-</div>
