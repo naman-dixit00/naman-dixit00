@@ -18,8 +18,8 @@
 
 ---
 
-### 🏮 研究領域 | RESEARCH CANON
-> *“Bridging Biological Intelligence and High-Performance Computation through mathematical formalism.”*
+### RESEARCH PERSPECTIVE 
+> *“Beyond Thinking: Bringing the NBIC Era to life through AI-powered interdisciplinary simulation and technological convergence.”*
 
 <table align="center" width="100%">
   <tr>
