@@ -26,7 +26,7 @@
     <td bgcolor="#FFFFFF" style="padding: 25px; border: 1px solid #E1E4E8; border-radius: 10px;">
       <p align="center">
         <font color="#001F3F" face="EB Garamond" size="4">
-          <strong>Core Focus:</strong> Computational Neuro-Engineering • Quantum Mechanics • Optical Information Processing • AI/ML • High-Performance Computing • Mathematical Modeling & Simulation • Neuromorphic–Biomedical Engineering.
+          <strong>Core Focus:</strong> Geometric Deep Learning  • Physcis Informed Machine Learning • Optical Information Processing • Computational Neuroscience  • High-Performance Computing • Deep Generative Modeling • Qunatum Biophysics 
         </font>
       </p>
     </td>
