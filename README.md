@@ -44,7 +44,7 @@
   </p>
 </div>
 
-### 🛠 Technical Core (Specializations)
+### Technical Core
 <table align="center" width="100%">
   <tr>
     <td bgcolor="#3f4a61" style="padding: 10px;">
