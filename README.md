@@ -1,4 +1,12 @@
-<div align="center">
+<h1 align="center">
+  Hi there!
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBrNHRvNjVnOXkyMjI1dnI4aTkzdHo2enkycGlheDF2ejZjM3RuZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" 
+    width="60"
+    style="vertical-align:middle;"
+  />
+</h1>
+
 
 <a href="https://github.com/naman-dixit00">
   <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=800&size=42&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=こんにちは%2C+NAMAN+です。;Computational+Application+Researcher.;Computational+Modeling+%26+Simulations.;Top+0.6%25+LeetCode+Global+Rank" alt="Typing SVG" />
