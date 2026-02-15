@@ -41,49 +41,65 @@
 
 ---
 
-## 🔬 Research Thesis
-### *"Beyond Thinking: Bringing the NBIC Era to life through AI-powered interdisciplinary simulation and technological convergence."*
+<div align="center">
 
-<div style="border-left: 4px solid #d92b4b; padding-left: 20px; margin: 20px 0;">
-  <p align="justify">
-    <font color="#3f4a61" face="Georgia">
-      My work operates at the frontier of <b>Computational Science</b>, aiming to bridge the gap between theoretical physics and deep learning. I focus on developing architectures that don't just mimic patterns, but respect the underlying mathematical and biological constraints of our universe.
-    </font>
-  </p>
+# `NBIC-CONVERGENCE`
+### *Towards High-Fidelity Interdisciplinary Simulation & Neural Symmetries*
+
+[![DeepMind Style](https://img.shields.io/badge/Research-DeepMind_Vibe-0070FF?style=flat-square&logo=google-deepmind&logoColor=white)](https://github.com/)
+[![Institution](https://img.shields.io/badge/Paradigm-MIT_Professor-black?style=flat-square)](https://github.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-gray.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+---
+
+**"The next evolution of intelligence is not found in the scaling of parameters, but in the adherence to the fundamental symmetries of the physical world."**
+
 </div>
 
-### Technical Core
-<table align="center" width="100%">
-  <tr>
-    <td bgcolor="#3f4a61" style="padding: 10px;">
-      <font color="#FFFFFF"><strong>Intelligence Systems</strong></font>
-    </td>
-    <td bgcolor="#f8f9fa" style="padding: 10px; border: 1px solid #3f4a61;">
-      <font color="#3f4a61">Geometric Deep Learning • Generative Modeling • Physics Informed ML</font>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#6084cc" style="padding: 10px;">
-      <font color="#FFFFFF"><strong>Physics & Bio</strong></font>
-    </td>
-    <td bgcolor="#f8f9fa" style="padding: 10px; border: 1px solid #6084cc;">
-      <font color="#3f4a61">Computational Neuroscience • Quantum Biophysics • Optical Processing</font>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#7d96c7" style="padding: 10px;">
-      <font color="#FFFFFF"><strong>Computation</strong></font>
-    </td>
-    <td bgcolor="#f8f9fa" style="padding: 10px; border: 1px solid #7d96c7;">
-      <font color="#3f4a61">High-Performance Computing (HPC) • Computational Modeling</font>
-    </td>
-  </tr>
-</table>
+## 🧬 Abstract
+My research operates at the frontier of **Computational Science**, specifically targeting the **NBIC** (Nano-Bio-Info-Cogno) convergence. I architect neural systems that don't just "learn" patterns—they are constrained by the underlying **mathematical and biological manifolds** of our universe. By integrating **Geometric Deep Learning** with **Physics-Informed Neural Networks (PINNs)**, I am building the substrate for the next generation of interdisciplinary simulators.
+
+---
+
+## 🔬 Core Research Vectors
+
+### 1. Geometric & Physics-Informed Intelligence
+Focusing on $G$-invariant and $G$-equivariant neural networks to ensure consistency across physical transformations.
+* **Symmetry Breaking:** Encoding $SO(3)$ and $SE(3)$ equivariance for molecular and cosmic simulations.
+* **Neural Differential Equations:** Solving complex dynamics where $\frac{d\mathbf{u}}{dt} = f(\mathbf{u}, t, \theta)$.
+* **Loss Manifold Geometry:** Optimizing over non-Euclidean surfaces to improve generalization in sparse-data regimes.
+
+### 2. Quantum-Biological Convergence
+Bridging the gap between quantum mechanics and cognitive architectures.
+* **Computational Neuroscience:** Simulating synaptic plasticity using biologically plausible credit assignment (beyond standard Backprop).
+* **Quantum Biophysics:** Modeling coherence in biological systems using Tensor Networks and Quantum ML.
+
+### 3. High-Performance Substrates
+* **Optical Compute:** Researching photon-based inference for near-zero latency NBIC modeling.
+* **HPC Orchestration:** Scaling simulations across distributed clusters with minimal communication overhead.
+
+---
+
+## 📈 Engineering Milestones
+
+| System | Stage | Primary Objective |
+| :--- | :--- | :--- |
+| **Project: SYNAPSE** | `PROTOTYPE` | Modeling synaptic weight-shifting via $Hebbian$ Meta-Learning. |
+| **Kaggle Ops** | `ACTIVE` | High-rank feature engineering & SOTA model ensemble optimization. |
+| **NBIC Core** | `ARCHITECT` | Building a unified API for cross-scale physics simulations. |
+
+---
+
+## 🛠 Technical Stack
+`Python` • `PyTorch` • `JAX (DeepMind preference)` • `CUDA` • `LaTeX` • `Julia (Scientific Computing)`
 
 ---
 
 <div align="center">
-  <font color="#7d96c7" size="2">
-    <i>Prioritizing research and Kaggle milestones; a comprehensive restructuring and professional documentation of all repositories will follow these deliverables.</i>
-  </font>
+
+### ⚡ [Portfolio Restructuring in Progress]
+*Focusing on high-impact deliverables and peer-reviewed documentation. Major repo updates incoming.*
+
+`01001001 01001110 01010100 01000101 01010010 01000110 01000001 01000011 01000101`
+
 </div>
