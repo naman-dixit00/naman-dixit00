@@ -19,14 +19,9 @@
 ### *Towards High-Fidelity Interdisciplinary Simulation & Neural Symmetries*
 
 
----
-
 **"The next evolution of intelligence is not found in the scaling of parameters, but in the adherence to the fundamental symmetries of the physical world."**
 
 </div>
-
-## 🧬 Abstract
-My research operates at the frontier of **Computational Science**, specifically targeting the **NBIC** (Nano-Bio-Info-Cogno) convergence. I architect neural systems that don't just "learn" patterns—they are constrained by the underlying **mathematical and biological manifolds** of our universe. By integrating **Geometric Deep Learning** with **Physics-Informed Neural Networks (PINNs)**, I am building the substrate for the next generation of interdisciplinary simulators.
 
 ---
 
