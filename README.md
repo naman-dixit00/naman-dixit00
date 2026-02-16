@@ -7,34 +7,17 @@
   />
 </h1>
 
-
 <a href="https://github.com/naman-dixit00">
   <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=800&size=42&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=こんにちは%2C+NAMAN+です。;Computational+Application+Researcher.;Computational+Modeling+%26+Simulations.;Top+0.6%25+LeetCode+Global+Rank" alt="Typing SVG" />
 </a>
 
-
 </div>
-
----
 
 <div align="center">
 
 # `Particle Physics for Brain`
 ### *Towards High-Fidelity Interdisciplinary Simulation & Neural Symmetries*
 
-<table align="center" width="100%">
-  <tr style="border: none;">
-    <td width="33%" align="center" style="border: none;">
-      <img src="https://img.shields.io/badge/MIT-iQuHack-d92b4b?style=for-the-badge&logo=massachusettsinstituteoftechnology&logoColor=white"/>
-    </td>
-    <td width="33%" align="center" style="border: none;">
-      <img src="https://img.shields.io/badge/Harvard-Aspire_Fellow-3f4a61?style=for-the-badge&logo=harvarduniversity&logoColor=white"/>
-    </td>
-    <td width="33%" align="center" style="border: none;">
-      <img src="https://img.shields.io/badge/Oxford Seminar-6084cc?style=for-the-badge&logo=leetcode&logoColor=white"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
