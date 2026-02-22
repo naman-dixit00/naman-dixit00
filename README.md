@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Naman Dixit</h1>
+  <h1>Naman Dixit <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBrNHRvNjVnOXkyMjI1dnI4aTkzdHo2enkycGlheDF2ejZjM3RuZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35" style="vertical-align: middle;" /></h1>
   <p align="center">
     <strong>Independent Researcher | Computational Neurophysics</strong><br>
     <em>First Principle AI Research Corporation</em>
