@@ -38,12 +38,6 @@ I am a researcher operating at the intersection of **Statistical Physics** and *
 
 ---
 
-### Technical Proficiencies
-* **Frameworks:** PyTorch, JAX, TensorFlow, SciPy.
-* **Domain Knowledge:** Quantum Information, Statistical Mechanics, Neural Dynamics.
-* **Scientific Computing:** High-performance computing (HPC) for large-scale physical simulations.
-
 ### Contact & Collaboration
-I am open to formal research collaborations and discussions regarding the future of AI in the fundamental sciences.
-
-* **Professional Inquiries 📩 :** [namandixiit07@gmail.com](mailto:namandixiit07@gmail.com)
+I am open to formal research collaborations and discussions regarding the future of AI in the fundamental sciences.  
+**Professional Inquiries :** 📩 [namandixiit07@gmail.com](mailto:namandixiit07@gmail.com)
