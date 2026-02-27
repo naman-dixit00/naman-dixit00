@@ -5,7 +5,8 @@
 </h1>
   <p align="center">
     <strong>Independent Researcher | Computational Neurophysics</strong><br>
-    <em>First Principle AI Research Corporation</em>
+    <em>Yuanli AI Research Corporation </em>  
+    <em>Building Genri Powered by FPG_01 Engine. </em>
   </p>
 
   <p align="center">
