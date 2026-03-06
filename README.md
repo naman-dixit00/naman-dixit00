@@ -26,7 +26,7 @@
 ---
 
 ### Executive Summary
-I am a researcher operating at the intersection of **Statistical Physics** and **Deep Learning**. My work at First Principle AI Research Corporation focuses on the development of AI-powered modeling and simulation frameworks for complex physical and neural systems, with a particular emphasis on structural symmetries and physical constraints.
+I am a researcher operating at the intersection of **Statistical Physics** and **Deep Learning**. My work at Yuanli AI Research Laboratory focuses on the development of AI-powered modeling and simulation frameworks for complex physical and neural systems, with a particular emphasis on structural symmetries and physical constraints.
 
 ### Research Interests
 * **Physics-Informed Machine Learning (PIML):** Integrating differential equations into neural architectures.
