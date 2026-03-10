@@ -45,27 +45,6 @@ I operate at the intersection of **Statistical Physics** and **Deep Learning**. 
 
 ---
 
-### 🛠 Tech Stack & Tools
-
-#### Mathematical & Neural Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-</p>
-
-#### Tools & Analysis
-<p align="left">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mendeley-A5201A?style=for-the-badge&logo=mendeley&logoColor=white" />
-</p>
-
----
-
 <p align="center">
   <sub>
     <b>Refined by <a href="https://github.com/namandixit07">Naman Dixit</a></b> | 
