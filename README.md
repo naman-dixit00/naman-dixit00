@@ -27,19 +27,21 @@ I operate at the intersection of **Statistical Physics** and **Deep Learning**. 
 
 ---
 
-### 🧠 Research Interests
-* **Physics-Informed Machine Learning (PIML):** Integrating differential equations into neural architectures.
-* **Geometric Deep Learning:** Exploiting non-Euclidean data structures and group symmetries.
-* **Deep Generative Modeling:** Synthetic data generation for complex physical phenomena.
-* **Computational Neurophysics:** Modeling neural dynamics through the lens of theoretical physics.
-
 <img align="right" width=200px height=200px alt="Core animation" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+### 🧠 Research Interests
+▫️ **Physics-Informed Machine Learning (PIML):** Integrating differential equations into neural architectures.<br>
+▫️ **Geometric Deep Learning:** Exploiting non-Euclidean data structures and group symmetries.<br>
+▫️ **Deep Generative Modeling:** Synthetic data generation for complex physical phenomena.<br>
+▫️ **Computational Neurophysics:** Modeling neural dynamics through the lens of theoretical physics.<br>
+
+---
+
 ### 🎓 Academic Appointments & Affiliations
-* **Scholar (Incoming):** NSF AI Institute for Artificial Intelligence and Fundamental Interactions (**IAIFI**) PhD Summer School.
-* **Research Participant:** **MIT iQuHack** (Interdisciplinary Quantum Information Science and Engineering).
-* **Advanced Research Seminars:** * *Massachusetts Institute of Technology:* Focus on AI & Fundamental Interactions.
-  * *University of Oxford:* Focus on Computational Neuroscience and Deep Learning.
+▫️ **Scholar (Incoming):** NSF AI Institute for Artificial Intelligence and Fundamental Interactions (**IAIFI**) PhD Summer School.<br>
+▫️ **Research Participant:** **MIT iQuHack** (Interdisciplinary Quantum Information Science and Engineering).<br>
+▫️ **Advanced Research Seminars (MIT):** Focus on AI & Fundamental Interactions.<br>
+▫️ **Advanced Research Seminars (Oxford):** Focus on Computational Neuroscience and Deep Learning.<br>
 
 ---
 
