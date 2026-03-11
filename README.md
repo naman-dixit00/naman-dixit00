@@ -10,13 +10,15 @@
 </p>
 
 <details>
-<summary>Welcome to my Github Profile</summary>
+<summary>Current Focus & Research</summary>
 <br>
 
-<div align="left">
-  I do research in Computational Neurophysics and I'm building <b>Genri</b> at Yuanli AI.<br><br>
-  I previously participated in research at MIT iQuHack and I'm an incoming scholar at the NSF IAIFI PhD Summer School.<br><br>
-  I'm currently documenting insights from the Oxford Student Conference and focusing on the intersection of Physics-Informed ML and Deep Generative Modeling.<br><br>
-  🎵 <a href="https://open.spotify.com/track/5IY8i6WnkqvmRnIrF4lqDx?si=bf900781881c4036">Jay Park - Taxi Blur (feat. NATTY)</a>
-</div>
+Investigating Computational Neurophysics and architecting **Genri** at Yuanli AI Labs.  
+
+Incoming Scholar at NSF IAIFI (PhD Summer School) and MIT iQuHack fellow.  
+
+Synthesizing insights from Oxford on the intersection of PIML and Deep Generative Modeling.  
+
+🎵 [Jay Park - Taxi Blur (feat. NATTY)](https://open.spotify.com/track/5IY8i6WnkqvmRnIrF4lqDx?si=bf900781881c4036)
+
 </details>
