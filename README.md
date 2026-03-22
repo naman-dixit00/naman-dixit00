@@ -14,9 +14,7 @@
 <br>
 
 Investigating Computational Neurophysics and architecting **Genri** at Yuanli AI Labs.  
-
 Incoming Scholar at NSF IAIFI (PhD Summer School) and MIT iQuHack fellow.  
-
 Synthesizing insights from Oxford on the intersection of PIML and Deep Generative Modeling.  
 
 🎵 [Jay Park - Taxi Blur (feat. NATTY)](https://open.spotify.com/track/5IY8i6WnkqvmRnIrF4lqDx?si=bf900781881c4036)
