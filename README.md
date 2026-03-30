@@ -19,6 +19,6 @@ Incoming Scholar at NSF IAIFI (PhD Summer School) and MIT iQuHack fellow.
 
 Synthesizing insights from Oxford on the intersection of PIML and Deep Generative Modeling.  
 
-🎵 [Jay Park - Taxi Blur (feat. NATTY)](https://open.spotify.com/track/5IY8i6WnkqvmRnIrF4lqDx?si=bf900781881c4036)
+🎵 [Jay Park - Me Like Yuh (Feat- Hoody))](https://open.spotify.com/track/5S5gGOsUarzRXKoaSstwba?si=b01b5046e8a24a07)
 
 </details>
