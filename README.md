@@ -1,24 +1,52 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I’m Naman Dixit</h1>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/namandixit07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:namandixiit07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Naman_Dixit/"><img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
-  <a href="https://www.kaggle.com/namandixit07"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
-  <a href="https://github.com/namandixit07"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://www.mendeley.com/reference-manager/library/all-references"><img src="https://img.shields.io/badge/Mendeley-A5201A?style=flat&logo=mendeley&logoColor=white" alt="Mendeley" /></a>
+<h1 align="center">Naman Dixit</h1>
+<p align="center">
+  <kbd>Independent Researcher</kbd> • <kbd>Computational Neurophysics</kbd>
 </p>
 
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10" width="70%">
+    <a href="https://www.linkedin.com/in/namandixit07"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
+    <a href="mailto:namandixiit07@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    
+    <a href="https://www.kaggle.com/namandixit07"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>    
+    <a href="https://github.com/namandixit07"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </marquee>
+</p>
+
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="12" width="80%">
+    <b><font size="4" color="#00E5FF">Deep Generative Modeling &nbsp; | &nbsp; Computational Neurophysics &nbsp; | &nbsp; Geometric Deep Learning &nbsp; | &nbsp; Physics-Informed Machine Learning &nbsp; &nbsp; </font></b>
+  </marquee>
+</div>
+
+---
+
+### 🧠 Core Intelligence & Research Architecture
+* **NSF IAIFI** | Incoming Scholar for the PhD Summer School at the Institute for Artificial Intelligence and Fundamental Interactions.
+
+---
+
 <details>
-<summary>Current Focus & Research</summary>
+<summary><b><kbd> ❯ EXPAND GLOBAL RECOGNITION </kbd></b></summary>
 <br>
 
-Investigating Computational Neurophysics and architecting **Genri** at Yuanli AI Labs.  
+> *"The expansion of intelligence is the only inevitable trajectory."*
 
-Incoming Scholar at NSF IAIFI (PhD Summer School) and MIT iQuHack fellow.  
-
-Synthesizing insights from Oxford on the intersection of PIML and Deep Generative Modeling.  
-
-🎵 [Jay Park - Me Like Yuh (Feat- Hoody))](https://open.spotify.com/track/5S5gGOsUarzRXKoaSstwba?si=b01b5046e8a24a07)
+* **Stanford Venture Fellowship** | Invited to the Ambassador circle to steer the global expansion of the ecosystem.
+* **Oxford AI Society** | Collaborating with leadership on Frontier Computing and high-fidelity lab research.
+* **Academic Network** | Strategically aligned with faculty and senior researchers at **Stanford University**.
 
 </details>
+
+---
+
+### 🎧 The Frequency
+<p align="left">
+  <i>"Steady on the grind, quite a posh selection for the ears, innit? This track is absolute gas, no cap."</i>
+</p>
+
+[**Jay Park — Me Like Yuh (ft. Hoody)**](https://open.spotify.com/track/4jS6o9Z8WfQ5C7Q8Z9F6X2)
+
+<br>
+<div align="center">
+  <code>[SYSTEM_LOG] >> User: namandixit07 | Status: ACTIVE | Focus: Post-Science Era</code>
+</div>
