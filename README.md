@@ -47,6 +47,3 @@
 [**Jay Park — Me Like Yuh (ft. Hoody)**](https://open.spotify.com/track/5S5gGOsUarzRXKoaSstwba?si=M_FRlJDEQ5aQj1JOx8P1zg)
 
 <br>
-<div align="center">
-  <code>[SYSTEM_LOG] >> User: namandixit07 | Status: ACTIVE | Focus: Post-Science Era</code>
-</div>
