@@ -9,7 +9,7 @@
 <p>
   <a href="https://www.linkedin.com/in/namandixit07"><img src="https://skillicons.dev/icons?i=linkedin" height="22" /></a> &nbsp;&nbsp;
   <a href="https://github.com/namandixit07"><img src="https://skillicons.dev/icons?i=github" height="22" /></a> &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/namandixit07"><img src="https://skillicons.dev/icons?i=kaggle" height="22" /></a> &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/namandixit07"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="22" /></a> &nbsp;&nbsp;
   <a href="mailto:namandixiit07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="22" /></a>
 </p>
 
@@ -26,10 +26,6 @@
 </div>
 
 ---
-<style>
-  summary { list-style: none; }
-  summary::-webkit-details-marker { display: none; }
-</style>
 
 <h3>▍ CORE INTELLIGENCE & RESEARCH ARCHITECTURE</h3>
 
@@ -40,7 +36,7 @@
 
 <details>
 <summary style="cursor: pointer; font-family: monospace; letter-spacing: 2px; color: #888; display: flex; align-items: center;">
-  <kbd>❯</kbd> &nbsp; VIEW RESEARCH MANIFOLD
+  VIEW RESEARCH MANIFOLD
 </summary>
 <br>
 <table style="border: none; border-left: 2px solid #212121; padding-left: 15px;">
