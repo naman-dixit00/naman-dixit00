@@ -38,26 +38,29 @@
 <span style="color: #00D1FF;">05 //</span> STATISTICAL FIELD THEORY
   </pre>
 </div>
+<div align="center">
 
-### 🎧 THE FREQUENCY: AQUATIC STATE
+<div style="font-size: 1.25em; font-weight: 800; letter-spacing: 3px; color: #111; margin-bottom: 20px; text-transform: uppercase;">
+    🎧 THE FREQUENCY: AQUATIC STATE
+  </div>
 
-<div align="left" style="background: linear-gradient(135deg, #f9f9f9 0%, #eef2f3 100%); padding: 20px; border: 1px solid #eee; border-radius: 2px;">
-  <p style="margin: 0; font-family: monospace; font-size: 10px; color: #0077be; letter-spacing: 3px; font-weight: bold;">
+  <p style="font-family: monospace; font-size: 10px; color: #00D1FF; letter-spacing: 3px; font-weight: bold; margin-bottom: 10px;">
     CURRENT_ROTATION // 0101
   </p>
-  <h3 style="margin: 10px 0; font-weight: 300; letter-spacing: 1px; color: #111;">
-    AQUAMAN <span style="font-size: 12px; color: #888;">— JAY PARK (PROD. CHA CHA MALONE)</span>
-  </h3>
-  <p style="margin: 0; font-style: italic; font-size: 13px; color: #555; border-left: 2px solid #0077be; padding-left: 10px;">
+  
+  <h2 style="margin: 0; font-weight: 300; letter-spacing: 2px; color: #000;">
+    AQUAMAN <span style="font-size: 13px; color: #888; font-weight: 200;">— JAY PARK (PROD. CHA CHA MALONE)</span>
+  </h2>
+
+  <p style="margin: 20px 0; font-style: italic; font-size: 14px; color: #555; max-width: 550px; line-height: 1.8; letter-spacing: 0.5px;">
     "Low-key focused, high-key locked in. Respect the frequency."
   </p>
-  <br>
+
   <a href="https://www.youtube.com/watch?v=0_f1f8p_Dmo">
     <img src="https://img.shields.io/badge/LISTEN-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24" />
   </a>
+
 </div>
-
-
 
 <div align="center">
   <code style="color: #bbb; font-size: 10px; letter-spacing: 1px;">
