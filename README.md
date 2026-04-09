@@ -23,21 +23,22 @@
   </font>
 </p>
 
+<details>
+  <summary style="text-align: center; font-family: monospace; color: #555; font-size: 12px; letter-spacing: 1.5px; margin-top: 0; margin-bottom: 15px; cursor: pointer; list-style: none; outline: none;">
+    <span style="color: #00D1FF;">[▶]</span> RESEARCH MANIFOLD: VIEW_LATENT_REPRESENTATIONS
+  </summary>
 
-</div>
-<p align="left" style="font-family: monospace; color: #555; font-size: 12px; letter-spacing: 1.5px; margin-top: 0; margin-bottom: 15px;">
-  <span style="color: #00D1FF;">[▶]</span> RESEARCH MANIFOLD: VIEW_LATENT_REPRESENTATIONS
-</p>
-
-<div style="border-left: 1px solid #00D1FF; padding-left: 20px; margin-top: 15px;">
-  <pre style="line-height: 2; color: #444; font-size: 12px; font-family: monospace;">
+  <div style="border-left: 1px solid #00D1FF; padding-left: 20px; margin-top: 15px;">
+    <pre style="line-height: 2; color: #444; font-size: 12px; font-family: monospace; margin: 0;">
 <span style="color: #00D1FF;">01 //</span> DEEP GENERATIVE MODELING
 <span style="color: #00D1FF;">02 //</span> PHYSICS-INFORMED NEURAL NETWORKS
 <span style="color: #00D1FF;">03 //</span> GEOMETRIC MANIFOLD LEARNING
 <span style="color: #00D1FF;">04 //</span> COMPUTATIONAL NEUROSCIENCE
 <span style="color: #00D1FF;">05 //</span> STATISTICAL FIELD THEORY
-  </pre>
-</div>
+    </pre>
+  </div>
+</details>
+
 <div align="center">
 
 <div style="font-size: 1.25em; font-weight: 800; letter-spacing: 3px; color: #111; margin-bottom: 20px; text-transform: uppercase;">
@@ -67,3 +68,5 @@
     [SYS] 2024-2026 // IDENTITY_NAMAN_DIXIT // STATUS: ACTIVE // POST_SCIENCE_ERA
   </code>
 </div>
+
+
