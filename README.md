@@ -23,52 +23,44 @@
   </font>
 </p>
 
+
 </div>
-
----
-
-<h3>▍ CORE INTELLIGENCE & RESEARCH ARCHITECTURE</h3>
-
-<blockquote>
-  <b>NSF IAIFI</b> &nbsp;|&nbsp; <i>Institute for Artificial Intelligence and Fundamental Interactions</i><br>
-  <sub>Incoming Scholar &nbsp;◈&nbsp; PhD Summer School</sub>
-</blockquote>
-
-<details>
-<summary style="cursor: pointer; font-family: monospace; letter-spacing: 2px; color: #888; display: flex; align-items: center;">
-  VIEW RESEARCH MANIFOLD
-</summary>
-<br>
-<table style="border: none; border-left: 2px solid #212121; padding-left: 15px;">
-  <tr>
-    <td>
-      <font size="2" face="monospace" color="#A9B2C3">
-        ↳ DEEP GENERATIVE MODELING <br>
-        ↳ PHYSICS-INFORMED ML <br>
-        ↳ GEOMETRIC DEEP LEARNING <br>
-        ↳ COMPUTATIONAL NEUROSCIENCE <br>
-        ↳ QUANTUM MECHANICS
-      </font>
-    </td>
-  </tr>
-</table>
-</details>
-
----
-
-### 🎧 THE FREQUENCY
-
-<p align="left">
-  <i>"Low-key focused, high-key locked in. This rotation is straight heat, no skips. Respect the frequency."</i>
+<p align="left" style="font-family: monospace; color: #555; font-size: 12px; letter-spacing: 1.5px; margin-top: 0; margin-bottom: 15px;">
+  <span style="color: #00D1FF;">[▶]</span> RESEARCH MANIFOLD: VIEW_LATENT_REPRESENTATIONS
 </p>
 
-<blockquote>
-  <a href="https://www.youtube.com/watch?v=0_f1f8p_Dmo"><b>Jay Park — Aquaman</b></a><br>
-  <sub>PROD. CHA CHA MALONE</sub>
-</blockquote>
+<div style="border-left: 1px solid #00D1FF; padding-left: 20px; margin-top: 15px;">
+  <pre style="line-height: 2; color: #444; font-size: 12px; font-family: monospace;">
+<span style="color: #00D1FF;">01 //</span> DEEP GENERATIVE MODELING
+<span style="color: #00D1FF;">02 //</span> PHYSICS-INFORMED NEURAL NETWORKS
+<span style="color: #00D1FF;">03 //</span> GEOMETRIC MANIFOLD LEARNING
+<span style="color: #00D1FF;">04 //</span> COMPUTATIONAL NEUROSCIENCE
+<span style="color: #00D1FF;">05 //</span> STATISTICAL FIELD THEORY
+  </pre>
+</div>
 
----
+### 🎧 THE FREQUENCY: AQUATIC STATE
+
+<div align="left" style="background: linear-gradient(135deg, #f9f9f9 0%, #eef2f3 100%); padding: 20px; border: 1px solid #eee; border-radius: 2px;">
+  <p style="margin: 0; font-family: monospace; font-size: 10px; color: #0077be; letter-spacing: 3px; font-weight: bold;">
+    CURRENT_ROTATION // 0101
+  </p>
+  <h3 style="margin: 10px 0; font-weight: 300; letter-spacing: 1px; color: #111;">
+    AQUAMAN <span style="font-size: 12px; color: #888;">— JAY PARK (PROD. CHA CHA MALONE)</span>
+  </h3>
+  <p style="margin: 0; font-style: italic; font-size: 13px; color: #555; border-left: 2px solid #0077be; padding-left: 10px;">
+    "Low-key focused, high-key locked in. Respect the frequency."
+  </p>
+  <br>
+  <a href="https://www.youtube.com/watch?v=0_f1f8p_Dmo">
+    <img src="https://img.shields.io/badge/LISTEN-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24" />
+  </a>
+</div>
+
+
 
 <div align="center">
-  <code>[SYSTEM_LOG] >> User: namandixit07 | Status: ACTIVE | Focus: Post-Science Era</code>
+  <code style="color: #bbb; font-size: 10px; letter-spacing: 1px;">
+    [SYS] 2024-2026 // IDENTITY_NAMAN_DIXIT // STATUS: ACTIVE // POST_SCIENCE_ERA
+  </code>
 </div>
