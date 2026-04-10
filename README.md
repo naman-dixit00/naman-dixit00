@@ -57,7 +57,7 @@
     "Low-key focused, high-key locked in. Respect the frequency."
   </p>
 
-  <a href="https://www.youtube.com/watch?v=0_f1f8p_Dmo">
+  <a href="https://youtu.be/-qSNMfm1rlg?si=ExMwkMAbYgpb-iig">
     <img src="https://img.shields.io/badge/LISTEN-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24" />
   </a>
 
