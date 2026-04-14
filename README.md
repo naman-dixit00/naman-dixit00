@@ -30,11 +30,11 @@
 
   <div style="border-left: 1px solid #00D1FF; padding-left: 20px; margin-top: 15px;">
     <pre style="line-height: 2; color: #444; font-size: 12px; font-family: monospace; margin: 0;">
-<span style="color: #00D1FF;">01 //</span> DEEP GENERATIVE MODELING
-<span style="color: #00D1FF;">02 //</span> PHYSICS-INFORMED NEURAL NETWORKS
-<span style="color: #00D1FF;">03 //</span> GEOMETRIC MANIFOLD LEARNING
-<span style="color: #00D1FF;">04 //</span> COMPUTATIONAL NEUROSCIENCE
-<span style="color: #00D1FF;">05 //</span> STATISTICAL FIELD THEORY
+<span style="color: #00D1FF;">01 //</span> Deep Generative Modeling
+<span style="color: #00D1FF;">02 //</span> PHYSICS-INFORMED Machine Learing
+<span style="color: #00D1FF;">03 //</span> GEOMETRIC Deep Learning
+<span style="color: #00D1FF;">04 //</span> Computational Neuroscience
+<span style="color: #00D1FF;">05 //</span> Quantum Information Theory 
     </pre>
   </div>
 </details>
