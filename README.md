@@ -3,7 +3,7 @@
 <h1 style="letter-spacing: 4px; font-weight: 200;">NAMAN DIXIT</h1>
 
 <p>
-  <code>INDEPENDENT RESEARCHER</code> &nbsp;•&nbsp; <code>Quantum Information, Computational Neuroscience</code>
+  <code>INDEPENDENT RESEARCHER</code> &nbsp;•&nbsp; <code>Quantum Information • Computational Neuroscience</code>
 </p>
 
 <p>
