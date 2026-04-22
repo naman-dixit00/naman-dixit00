@@ -1,6 +1,8 @@
 <div align="center">
+<div align="center">
+  <img src="header.svg" width="550" alt="Naman Dixit">
+</div>
 
-<h1 style="letter-spacing: 4px; font-weight: 200;">NAMAN DIXIT</h1>
 <p>
   <a href="https://www.linkedin.com/in/namandixit07"><img src="https://skillicons.dev/icons?i=linkedin" height="22" /></a> &nbsp;&nbsp;
   <a href="https://github.com/namandixit07"><img src="https://skillicons.dev/icons?i=github" height="22" /></a> &nbsp;&nbsp;
@@ -58,7 +60,6 @@
 </div>
 
 </div>
-
 
 
 
