@@ -15,7 +15,7 @@
 </p>
 <p>
   <font size="2" color="#666" style="letter-spacing: 1.5px; text-transform: uppercase;">
-    Havrard Aspire &nbsp;·&nbsp; 
+    Harvard Aspire &nbsp;·&nbsp; 
     Oxford AI Society &nbsp;·&nbsp; 
     NSF IAIFI &nbsp;·&nbsp;
   </font>
