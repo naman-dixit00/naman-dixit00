@@ -1,0 +1,23 @@
+<svg width="600" height="80" viewBox="0 0 600 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .name {
+      font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 100;
+      letter-spacing: 8px;
+      fill: #111;
+      opacity: 0;
+      animation: fadeIn 2.5s ease-out forwards;
+    }
+    .surname {
+      fill: #666;
+      font-weight: 300;
+    }
+    @keyframes fadeIn {
+      0% { opacity: 0; transform: translateY(10px); filter: blur(8px); }
+      100% { opacity: 1; transform: translateY(0); filter: blur(0); }
+    }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="35" class="name">
+    N<tspan class="surname">aman</tspan> D<tspan class="surname">ixit</tspan>
+  </text>
+</svg>
