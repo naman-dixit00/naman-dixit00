@@ -1,6 +1,10 @@
 <div align="center">
 <div align="center">
-  <img src="header.svg" width="550" alt="Naman Dixit">
+<div align="center">
+  <h2 style="margin: 0; font-weight: 300; letter-spacing: 2px; color: #000; font-family: -apple-system, sans-serif;">
+    NAMAN <span style="font-size: 13px; color: #888; font-weight: 200;"> DIXIT </span>
+  </h2>
+</div>
 </div>
 
 <p>
@@ -51,12 +55,6 @@
     <img src="https://img.shields.io/badge/LISTEN-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24" />
   </a>
 
-</div>
-
-<div align="center" style="margin-top: 30px;">
-  <code style="color: #bbb; font-size: 10px; letter-spacing: 1px;">
-    [SYS] 2024-2026 // IDENTITY_NAMAN_DIXIT // STATUS: ACTIVE // POST_SCIENCE_ERA
-  </code>
 </div>
 
 </div>
