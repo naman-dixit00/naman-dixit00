@@ -40,7 +40,7 @@
 <div align="center">
 🎧 THE FREQUENCY: AQUATIC STATE
   <div style="font-family: monospace; font-size: 11.5px; color: #777; letter-spacing: 1px; margin-top: 30px; margin-bottom: 25px;">
-    wonyoung jk jay proper obsessed fr.
+  Jungkook proper obsessed fr.
   </div>
 
   <h2 style="margin: 0; font-weight: 300; letter-spacing: 2px; color: #000;">
