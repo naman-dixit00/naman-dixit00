@@ -44,10 +44,6 @@
   </div>
   <Br>
   
-  <div align="center" style="margin-top: 30px; margin-bottom: 25px;">
-  <img src="https://raw.githubusercontent.com/naman-dixit00/naman-dixit00/main/Super%20Cute.gif" width="250" alt="Lets Do It." />
-</div>
-  
   <h2 style="margin: 0; font-weight: 300; letter-spacing: 2px; color: #000;">
     AQUAMAN <span style="font-size: 13px; color: #888; font-weight: 200;">— JAY PARK (PROD. CHA CHA MALONE)</span>
   </h2>
