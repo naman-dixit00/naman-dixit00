@@ -42,7 +42,6 @@
   <div style="font-family: monospace; font-size: 11.5px; color: #777; letter-spacing: 1px; margin-top: 30px; margin-bottom: 25px;">
   Jungkook proper obsessed fr.
   </div>
-  <Br>
   
   <h2 style="margin: 0; font-weight: 300; letter-spacing: 2px; color: #000;">
     AQUAMAN <span style="font-size: 13px; color: #888; font-weight: 200;">— JAY PARK (PROD. CHA CHA MALONE)</span>
