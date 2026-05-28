@@ -52,7 +52,7 @@
     "Low-key focused, high-key locked in. Respect the frequency."
   </p>
   
-  <a href="https://github.com/naman-dixit00/naman-dixit00/blob/main/Movie%20by%20Gabe.mp4">
+  <a href="https://artlist.io/royalty-free-music/song/movie-feat-gabe-isaac/129771">
     <img src="https://img.shields.io/badge/LISTEN-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24" />
   </a>
 
