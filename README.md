@@ -12,6 +12,7 @@
 <a href="https://github.com/namandixit07"><img src="https://skillicons.dev/icons?i=github" height="22" /></a> &nbsp;&nbsp;
 <a href="https://www.kaggle.com/namandixit07"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="22" /></a> &nbsp;&nbsp;
 <a href="https://leetcode.com/u/Naman_Dixit/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="22" /></a> &nbsp;&nbsp;
+<a href="https://huggingface.co/naman-00"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="22" /></a> &nbsp;&nbsp;
 <a href="mailto:namandixiit07@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="22" /></a>
 </p>
 <p>
@@ -30,7 +31,7 @@
   <div style="border-left: 1px solid #00D1FF; padding-left: 20px; margin-top: 15px;">
     <pre style="line-height: 2; color: #444; font-size: 12px; font-family: monospace; margin: 0;">
 <span style="color: #00D1FF;">01 //</span> Deep Generative Modeling
-<span style="color: #00D1FF;">02 //</span> Physics-Informed Machine Learing
+<span style="color: #00D1FF;">02 //</span> Physics-Informed Machine Learning
 <span style="color: #00D1FF;">03 //</span> GEOMETRIC Deep Learning
 <span style="color: #00D1FF;">04 //</span> Computational Neuroscience
 <span style="color: #00D1FF;">05 //</span> Quantum Information Theory 
@@ -39,28 +40,23 @@
 </details>
 
 <div align="center">
-🎧 THE FREQUENCY: CINEMATIC STATE
+🎧 THE FREQUENCY: AQUATIC STATE
   <div style="font-family: monospace; font-size: 11.5px; color: #777; letter-spacing: 1px; margin-top: 30px; margin-bottom: 25px;">
   Jungkook proper obsessed fr.
   </div>
   
   <h2 style="margin: 0; font-weight: 300; letter-spacing: 2px; color: #000;">
-    MOVIE <span style="font-size: 13px; color: #888; font-weight: 200;">— BY (FEAT. GABE ISAAC)</span>
+    AQUAMAN <span style="font-size: 13px; color: #888; font-weight: 200;">— JAY PARK (PROD. CHA CHA MALONE)</span>
   </h2>
 
   <p style="margin: 20px 0; font-style: italic; font-size: 14px; color: #555; max-width: 550px; line-height: 1.8; letter-spacing: 0.5px;">
     "Low-key focused, high-key locked in. Respect the frequency."
   </p>
   
-  <a href="https://artlist.io/royalty-free-music/song/movie-feat-gabe-isaac/129771">
+  <a href="https://youtu.be/rMLXFFAB0Ag?si=2TxaVMRkCoG_f26_">
     <img src="https://img.shields.io/badge/LISTEN-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24" />
   </a>
 
 </div>
 
 </div>
-
-
-
-
-
