@@ -40,21 +40,21 @@
 </details>
 
 <div align="center">
-🎧 THE FREQUENCY: AQUATIC STATE
+🎧 THE FREQUENCY: CINEMATIC STATE
   <div style="font-family: monospace; font-size: 11.5px; color: #777; letter-spacing: 1px; margin-top: 30px; margin-bottom: 25px;">
-  Jungkook proper obsessed fr.
+  Proper obsessed fr.
   </div>
   
   <h2 style="margin: 0; font-weight: 300; letter-spacing: 2px; color: #000;">
-    AQUAMAN <span style="font-size: 13px; color: #888; font-weight: 200;">— JAY PARK (PROD. CHA CHA MALONE)</span>
+    MOVIE <span style="font-size: 13px; color: #888; font-weight: 200;">— FEAT. GABE ISAAC</span>
   </h2>
 
   <p style="margin: 20px 0; font-style: italic; font-size: 14px; color: #555; max-width: 550px; line-height: 1.8; letter-spacing: 0.5px;">
     "Low-key focused, high-key locked in. Respect the frequency."
   </p>
   
-  <a href="https://youtu.be/rMLXFFAB0Ag?si=2TxaVMRkCoG_f26_">
-    <img src="https://img.shields.io/badge/LISTEN-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24" />
+  <a href="https://artlist.io/royalty-free-music/song/movie-feat-gabe-isaac/129771">
+    <img src="https://img.shields.io/badge/LISTEN-FF0000?style=for-the-badge&logo=music&logoColor=white" height="24" />
   </a>
 
 </div>
