@@ -13,7 +13,6 @@
 <a href="https://www.kaggle.com/namandixit07"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="22" /></a> &nbsp;&nbsp;
 <a href="https://leetcode.com/u/Naman_Dixit/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="22" /></a> &nbsp;&nbsp;
 <a href="https://huggingface.co/naman-00"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="22" /></a> &nbsp;&nbsp;
-<a href="mailto:namandixiit07@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="22" /></a>
 </p>
 <p>
   <font size="2" color="#666" style="letter-spacing: 1.5px; text-transform: uppercase;">
