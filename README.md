@@ -41,7 +41,7 @@
 <div align="center">
 🎧 THE FREQUENCY: CINEMATIC STATE
   <div style="font-family: monospace; font-size: 11.5px; color: #777; letter-spacing: 1px; margin-top: 30px; margin-bottom: 25px;">
-  Proper obsessed fr.
+  Proper obsessed jungkook fr.
   </div>
   
   <h2 style="margin: 0; font-weight: 300; letter-spacing: 2px; color: #000;">
