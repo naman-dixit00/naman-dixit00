@@ -27,14 +27,17 @@
     <span style="color: #00D1FF;">[▶]</span> RESEARCH MANIFOLD: VIEW_LATENT_REPRESENTATIONS
   </summary>
 
-  <div style="border-left: 1px solid #00D1FF; padding-left: 20px; margin-top: 15px;">
-    <pre style="line-height: 2; color: #444; font-size: 12px; font-family: monospace; margin: 0;">
-<span style="color: #00D1FF;">01 //</span> Deep Generative Modeling
-<span style="color: #00D1FF;">02 //</span> Physics-Informed Machine Learning
-<span style="color: #00D1FF;">03 //</span> GEOMETRIC Deep Learning
-<span style="color: #00D1FF;">04 //</span> Computational Neuroscience
-<span style="color: #00D1FF;">05 //</span> Quantum Information Theory 
-    </pre>
+  <!-- Container for the narrow, squished box look -->
+  <div align="center">
+    <!-- max-width adds the squish effect from sides -->
+    <div style="border-left: 1px solid #00D1FF; padding-left: 20px; margin-top: 15px; text-align: left; max-width: 450px;">
+      <pre style="line-height: 2; color: #444; font-size: 12px; font-family: monospace; margin: 0; white-space: pre-wrap; word-wrap: break-word;">
+<span style="color: #00D1FF;">//</span> Physics-Informed Machine Learning for modeling 
+nonlinear nanoscale physics of neural systems at the 
+interface of biophysics, open quantum systems and 
+nonequilibrium statistical physics.
+      </pre>
+    </div>
   </div>
 </details>
 
