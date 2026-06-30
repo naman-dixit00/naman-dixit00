@@ -48,14 +48,14 @@ nonequilibrium statistical physics.
   </div>
   
   <h2 style="margin: 0; font-weight: 300; letter-spacing: 2px; color: #000;">
-    SEVEN <span style="font-size: 13px; color: #888; font-weight: 200;">— JUNG KOOK (FEAT. LATTO)</span>
+    AQUAMAN <span style="font-size: 13px; color: #888; font-weight: 200;">— JAY PARK (PROD. CHA CHA MALONE)</span>
   </h2>
 
   <p style="margin: 20px 0; font-style: italic; font-size: 14px; color: #555; max-width: 550px; line-height: 1.8; letter-spacing: 0.5px;">
     "Low-key focused, high-key locked in. Respect the frequency."
   </p>
   
-  <a href="https://youtu.be/QU9c0053UAU?si=Y3lZK2mjxMDFACQT">
+  <a href="https://soundcloud.com/chachamalone/jay-park-aquaman-instrumentaprod-by-cha-cha-malone?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
     <img src="https://img.shields.io/badge/WATCH-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24" />
   </a>
 
