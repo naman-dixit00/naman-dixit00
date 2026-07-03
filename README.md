@@ -51,10 +51,10 @@ nonequilibrium statistical physics.
     BLINK <span style="font-size: 13px; color: #888; font-weight: 200;">— CORBYN BESSON (FEAT. TZUYU)</span>
   </h2>
 
-  <p style="margin: 20px 0; font-style: italic; font-size: 14px; color: #555; max-width: 550px; line-height: 1.8; letter-spacing: 0.5px;">
-    "Deep research grind, catching smooth KRNB 분위기, building a research corp 재벌"
-  </p>
-  
+<p style="margin: 20px 0; font-style: italic; font-size: 14px; color: #555; max-width: 550px; line-height: 1.8; letter-spacing: 0.5px; display: block;">
+    Deep research grind, catching smooth KRNB 분위기, building a research corp 재벌
+</p>
+
   <a href="https://youtu.be/QcuV8h_I1y0?si=kBib_rxyllBVywBv">
     <img src="https://img.shields.io/badge/WATCH-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24" />
   </a>
