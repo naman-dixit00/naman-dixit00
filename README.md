@@ -52,7 +52,7 @@ nonequilibrium statistical physics.
   </h2>
 
   <p style="margin: 20px 0; font-style: italic; font-size: 14px; color: #555; max-width: 550px; line-height: 1.8; letter-spacing: 0.5px;">
-    "Low-key focused, high-key locked in. Respect the frequency."
+    "Deep research grind, catching smooth KRNB 분위기, building a research corp 재벌"
   </p>
   
   <a href="https://youtu.be/QcuV8h_I1y0?si=kBib_rxyllBVywBv">
