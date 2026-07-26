@@ -42,7 +42,7 @@ nonequilibrium statistical physics.
 </details>
 
 <div align="center">
-🎧 THE FREQUENCY: CINEMATIC LEICA STATE
+🎧 THE FREQUENCY: APPLIED SCIENTIFIC RESEARCH 
   <div style="font-family: monospace; font-size: 11.5px; color: #777; letter-spacing: 1px; margin-top: 30px; margin-bottom: 25px;">
   Obsessed with Korean-American R&B.
   </div>
