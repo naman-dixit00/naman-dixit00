@@ -44,7 +44,8 @@ nonequilibrium statistical physics.
 <div align="center">
 🎧 THE FREQUENCY: APPLIED SCIENTIFIC RESEARCH 
   <div style="font-family: monospace; font-size: 11.5px; color: #777; letter-spacing: 1px; margin-top: 30px; margin-bottom: 25px;">
-  Obsessed with Korean-American R&B & Research. 
+  - Currently Working on SDEs for Neural based Physics Informed Modeling of Complex Nonlinear Stochastic Systems. 
+  - Obsessed with Korean-American R&B.
   </div>
   
    <h2 style="margin: 0; font-weight: 300; letter-spacing: 2px; color: #000;">
