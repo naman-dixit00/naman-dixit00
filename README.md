@@ -17,7 +17,7 @@
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 12.5px; line-height: 1.8; letter-spacing: 0.2px; color: #222;">
   <p style="margin-bottom: 16px;">
     <span style="color: #000; font-weight: 800;">✦</span> &nbsp;<strong style="letter-spacing: 0.5px; color: #111;">ABOUT ME:</strong><br />
-    Conducting independent computational research as a Bachelor of Computer Applications (BSc Honours with Research in Computer Applications) undergraduate student at the University of Rajasthan.
+    Conducting independent computational research as a Bachelor of Computer Applications (BS Honours with Research in Computer Applications) undergraduate student at the University of Rajasthan.
   </p>
 
   <p style="margin-bottom: 16px;">
